@@ -1,6 +1,6 @@
 # Quantitative Macroeconomics Notebook 📓
 
-This GitHub repo contains all of the notes that I took in my "Quantitative Macroeconomics" class in university. They are written in <font color="1697da">Markdown</font> files and also include <font color="008080">$\LaTeX$</font> expressions for mathematical equations, making them easy to read 🙇 and understand 📑.
+This GitHub repo contains all of the notes that I took in my "Quantitative Macroeconomics" class in university. They are written in **Markdown** files and also include $\LaTeX$ expressions for mathematical equations, making them easy to read 🙇 and understand 📑.
 
 # Table of Contents
 1. [Seminar 01 - Recap](./01.%20Recap.md)
