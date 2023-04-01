@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - 01. Recap.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
