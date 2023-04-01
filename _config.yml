@@ -2,9 +2,8 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-theme: Cayman
 gist:
   noscript: false
+markdown: kramdown
 kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+    math_engine: katex
