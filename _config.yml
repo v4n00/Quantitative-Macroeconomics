@@ -1,3 +1,4 @@
+title: testing
 plugins:
   - jekyll-relative-links
 relative_links:
