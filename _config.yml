@@ -1,6 +1,2 @@
 title: Quantitative Macroeconomics
 markdown: kramdown
-remote_theme: jekyll/minima@3cdd14d
-
-plugins:
-  - jekyll-remote-theme
