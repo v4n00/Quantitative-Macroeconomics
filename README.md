@@ -12,7 +12,7 @@ Make sure you are on the [website version](https://v4n00.github.io/quantitative-
 4. [Seminar 04 - Deriving multipliers and calculating the multiplier effects](./04.%20Deriving%20multipliers%20and%20calculating%20the%20multiplier%20effects%20.html)
 5. [Seminar 05 - Exercises with multipliers](./05.%20Exercises%20with%20multipliers.html)
 6. [Seminar 06 - Problems with multipliers](./06.%20Problems%20with%20multipliers.html)
-7. [Seminar 07]()
+7. [Seminar 07 - Test](./07.%20Test.html)
 8. [Seminar 08]()
 9. [Seminar 09]()
 10. [Seminar 10]()
