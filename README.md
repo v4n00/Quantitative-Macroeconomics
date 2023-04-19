@@ -13,7 +13,7 @@ Make sure you are on the [website version](https://v4n00.github.io/quantitative-
 5. [Seminar 05 - Exercises with multipliers](./05.%20Exercises%20with%20multipliers.html)
 6. [Seminar 06 - Problems with multipliers](./06.%20Problems%20with%20multipliers.html)
 7. [Seminar 07 - Test](./07.%20Test.html)
-8. [Seminar 08 - ISLM Model](./08.%20ISLM%20Model.md)
+8. [Seminar 08 - ISLM Model](./08.%20ISLM%20Model.html)
 9. [Seminar 09]()
 10. [Seminar 10]()
 11. [Seminar 11]()
