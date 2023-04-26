@@ -14,7 +14,7 @@ Make sure you are on the [website version](https://v4n00.github.io/quantitative-
 6. [Seminar 06 - Problems with multipliers](./06.%20Problems%20with%20multipliers.html)
 7. [Seminar 07 - Test](./07.%20Test.html)
 8. [Seminar 08 - ISLM Model](./08.%20ISLM%20Model.html)
-9. [Seminar 09](./09.%20ISLM%20Model%20exercise.html)
+9. [Seminar 09 - ISLM Exercise](./09.%20ISLM%20Model%20exercise.html)
 10. [Seminar 10]()
 11. [Seminar 11]()
 12. [Seminar 12]()
