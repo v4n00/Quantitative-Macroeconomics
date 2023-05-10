@@ -16,7 +16,7 @@ Make sure you are on the [website version](https://v4n00.github.io/quantitative-
 8. [Seminar 08 - ISLM Model](./08.%20ISLM%20Model.html)
 9. [Seminar 09 - ISLM Model Exercise (1)](./09.%20ISLM%20Model%20exercise%20(1).html)
 10. [Seminar 10 - ISLM Model Exercise (2)](./10.%20ISLM%20Model%20Exercise%20(2).html)
-11. [Seminar 11]()
+11. [Seminar 11 - ISLMBP Model](./11.%20ISLMBP%20Model.html)
 12. [Seminar 12]()
 13. [Seminar 13]()
 14. [Seminar 14]()
