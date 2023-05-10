@@ -4,7 +4,7 @@ This GitHub repo contains all of the notes that I took in my "Quantitative Macro
 
 # Before Reading
 Make sure you are on the [website version](https://v4n00.github.io/quantitative-macroeconomics/) of this repo!  
-But if you wanna go back to the repo, here's the [link](https://github.com/v4n00/quantitative-macroeconomics)  
+But if you wanna go back to the repo, here's the [link](https://github.com/v4n00/quantitative-macroeconomics).  
 
 # Table of Contents
 1. [Seminar 01 - Recap](./01.%20Recap.html)
