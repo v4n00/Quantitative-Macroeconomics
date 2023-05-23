@@ -19,5 +19,5 @@ But if you wanna go back to the repo, here's the [link](https://github.com/v4n00
 10. [Seminar 10 - ISLM exercise (2)](./10.%20ISLM%20exercise%20(2).html)
 11. [Seminar 11 - ISLMBP Model](./11.%20ISLMBP%20Model.html)
 12. [Seminar 12 - ISLMBP exercise (1)](./12.%20ISLMBP%20exercise%20(1).html)
-13. [Seminar 13 - External sector exercises](./13.%20External%20sector%20exercises.md)
+13. [Seminar 13 - External sector exercises](./13.%20External%20sector%20exercises.html)
 14. [Seminar 14]()
