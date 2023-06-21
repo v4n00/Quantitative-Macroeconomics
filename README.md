@@ -20,4 +20,4 @@ But if you wanna go back to the repo, here's the [link](https://github.com/v4n00
 11. [Seminar 11 - ISLMBP Model](./11.%20ISLMBP%20Model.html)
 12. [Seminar 12 - ISLMBP exercise](./12.%20ISLMBP%20exercise.html)
 13. [Seminar 13 - External sector exercises](./13.%20External%20sector%20exercises.html)
-14. [Seminar 14 - Exam](./14.%20Exam.md)
+14. [Seminar 14 - Exam](./14.%20Exam.html)
