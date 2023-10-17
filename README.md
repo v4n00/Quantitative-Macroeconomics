@@ -3,8 +3,8 @@
 This GitHub repo contains all of the notes that I took in my "Quantitative Macroeconomics" class in university. They are written in **Markdown** files and also include $\LaTeX$ expressions for mathematical equations, making them easy to read 🙇 and understand 📑.
 
 # Before Reading
-Make sure you are on the [website version](https://v4n00.github.io/quantitative-macroeconomics/) of this repo!  
-But if you wanna go back to the repo, here's the [link](https://github.com/v4n00/quantitative-macroeconomics).  
+Make sure you are on the [website version](https://v4n00.github.io/Quantitative-Macroeconomics/) of this repo!  
+But if you wanna go back to the repo, here's the [link](https://github.com/v4n00/Quantitative-Macroeconomics).  
 
 # Table of Contents
 1. [Seminar 01 - Recap](./01.%20Recap.html)
